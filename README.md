@@ -4,9 +4,9 @@ This is a simple Todo app built using React and Node.js with Express.js. It allo
 ## Installation
 To run the app, clone the repository and run the following commands:
 
-`cd todo-app
-npm install
-npm start`
+`cd todo-app`
+`npm install`
+`npm start`
 
 The app should now be running on http://localhost:3000.
 
